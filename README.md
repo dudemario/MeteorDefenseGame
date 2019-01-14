@@ -1,4 +1,4 @@
 # MeteorDefenseGame
 Meteor Defense game made in unity
 
-Currently only build is a MacOS application
+Currently only build is a MacOS application ("Meteor Defense.app")
